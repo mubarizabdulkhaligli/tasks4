@@ -1,0 +1,14 @@
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/bin/Debug/netcoreapp3.1/task5
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/bin/Debug/netcoreapp3.1/task5.deps.json
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/bin/Debug/netcoreapp3.1/task5.runtimeconfig.json
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/bin/Debug/netcoreapp3.1/task5.runtimeconfig.dev.json
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/bin/Debug/netcoreapp3.1/task5.dll
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/bin/Debug/netcoreapp3.1/task5.pdb
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/obj/Debug/netcoreapp3.1/task5.csproj.AssemblyReference.cache
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/obj/Debug/netcoreapp3.1/task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/obj/Debug/netcoreapp3.1/task5.AssemblyInfoInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/obj/Debug/netcoreapp3.1/task5.AssemblyInfo.cs
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/obj/Debug/netcoreapp3.1/task5.csproj.CoreCompileInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/obj/Debug/netcoreapp3.1/task5.dll
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/obj/Debug/netcoreapp3.1/task5.pdb
+/Users/mubarizabdulkhaligli/Desktop/homework/homework/task5/obj/Debug/netcoreapp3.1/task5.genruntimeconfig.cache
